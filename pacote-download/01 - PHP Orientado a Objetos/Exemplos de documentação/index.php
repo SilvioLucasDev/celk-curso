@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Celke</title>
+    <title>Documentação</title>
 </head>
 
 <body>
@@ -19,7 +19,7 @@
     $funcionario = new Funcionario();
 
     //Atributo publico pode ser acessaro fora da classe
-    $funcionario->nome = "Cesar";
+    $funcionario->nome = "Lucas";
     $funcionario->salario = 7961.52;
     echo $funcionario->verSalario();
 

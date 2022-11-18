@@ -3,7 +3,7 @@
 /**
  * A classe Funcionario calcula o salario do colaborador 
  * 
- * @author Celke <cesar@celke.com.br>
+ * @author Silvio Lucas <silviolucas_santos@hotmail.com>
  */
 class Funcionario
 {

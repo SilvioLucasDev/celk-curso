@@ -3,7 +3,7 @@
 /**
  * A classe Bonus he classe filha da classe Funcionario
  *
- * @author Celke
+ * @author Silvio Lucas
  */
 
 class Bonus extends Funcionario
