@@ -1,0 +1,19 @@
+{
+    "description": "Projeto Site e Adm Dinamico",
+    "authors": [
+        {
+            "name": "Silvio Lucas",
+            "email": "silviolucas_santos@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core",
+            "App\\": "app",
+            "Adms\\": "app/adms"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
